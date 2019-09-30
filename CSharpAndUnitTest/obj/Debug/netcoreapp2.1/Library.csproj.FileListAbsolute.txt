@@ -1,0 +1,9 @@
+C:\Users\Fr0thgar\source\repos\CSharpAndUnitTest\CSharpAndUnitTest\bin\Debug\netcoreapp2.1\Library.deps.json
+C:\Users\Fr0thgar\source\repos\CSharpAndUnitTest\CSharpAndUnitTest\bin\Debug\netcoreapp2.1\Library.dll
+C:\Users\Fr0thgar\source\repos\CSharpAndUnitTest\CSharpAndUnitTest\bin\Debug\netcoreapp2.1\Library.pdb
+C:\Users\Fr0thgar\source\repos\CSharpAndUnitTest\CSharpAndUnitTest\obj\Debug\netcoreapp2.1\Library.csprojAssemblyReference.cache
+C:\Users\Fr0thgar\source\repos\CSharpAndUnitTest\CSharpAndUnitTest\obj\Debug\netcoreapp2.1\Library.csproj.CoreCompileInputs.cache
+C:\Users\Fr0thgar\source\repos\CSharpAndUnitTest\CSharpAndUnitTest\obj\Debug\netcoreapp2.1\Library.AssemblyInfoInputs.cache
+C:\Users\Fr0thgar\source\repos\CSharpAndUnitTest\CSharpAndUnitTest\obj\Debug\netcoreapp2.1\Library.AssemblyInfo.cs
+C:\Users\Fr0thgar\source\repos\CSharpAndUnitTest\CSharpAndUnitTest\obj\Debug\netcoreapp2.1\Library.dll
+C:\Users\Fr0thgar\source\repos\CSharpAndUnitTest\CSharpAndUnitTest\obj\Debug\netcoreapp2.1\Library.pdb

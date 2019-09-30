@@ -1,0 +1,17 @@
+C:\Users\Fr0thgar\source\repos\CSharpAndUnitTest\UnitTestProject1\obj\Debug\netcoreapp2.1\LibraryUnitTest.csprojAssemblyReference.cache
+C:\Users\Fr0thgar\source\repos\CSharpAndUnitTest\UnitTestProject1\obj\Debug\netcoreapp2.1\LibraryUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Fr0thgar\source\repos\CSharpAndUnitTest\UnitTestProject1\obj\Debug\netcoreapp2.1\LibraryUnitTest.AssemblyInfoInputs.cache
+C:\Users\Fr0thgar\source\repos\CSharpAndUnitTest\UnitTestProject1\obj\Debug\netcoreapp2.1\LibraryUnitTest.AssemblyInfo.cs
+C:\Users\Fr0thgar\source\repos\CSharpAndUnitTest\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Fr0thgar\source\repos\CSharpAndUnitTest\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Fr0thgar\source\repos\CSharpAndUnitTest\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Fr0thgar\source\repos\CSharpAndUnitTest\UnitTestProject1\bin\Debug\netcoreapp2.1\LibraryUnitTest.deps.json
+C:\Users\Fr0thgar\source\repos\CSharpAndUnitTest\UnitTestProject1\bin\Debug\netcoreapp2.1\LibraryUnitTest.runtimeconfig.json
+C:\Users\Fr0thgar\source\repos\CSharpAndUnitTest\UnitTestProject1\bin\Debug\netcoreapp2.1\LibraryUnitTest.runtimeconfig.dev.json
+C:\Users\Fr0thgar\source\repos\CSharpAndUnitTest\UnitTestProject1\bin\Debug\netcoreapp2.1\LibraryUnitTest.dll
+C:\Users\Fr0thgar\source\repos\CSharpAndUnitTest\UnitTestProject1\bin\Debug\netcoreapp2.1\LibraryUnitTest.pdb
+C:\Users\Fr0thgar\source\repos\CSharpAndUnitTest\UnitTestProject1\bin\Debug\netcoreapp2.1\Library.dll
+C:\Users\Fr0thgar\source\repos\CSharpAndUnitTest\UnitTestProject1\bin\Debug\netcoreapp2.1\Library.pdb
+C:\Users\Fr0thgar\source\repos\CSharpAndUnitTest\UnitTestProject1\obj\Debug\netcoreapp2.1\LibraryUnitTest.csproj.CopyComplete
+C:\Users\Fr0thgar\source\repos\CSharpAndUnitTest\UnitTestProject1\obj\Debug\netcoreapp2.1\LibraryUnitTest.dll
+C:\Users\Fr0thgar\source\repos\CSharpAndUnitTest\UnitTestProject1\obj\Debug\netcoreapp2.1\LibraryUnitTest.pdb
